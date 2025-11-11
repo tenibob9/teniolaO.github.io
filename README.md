@@ -6,7 +6,7 @@ I design and build robotics systems and automated test fixtures  from surgical r
 ---
 
 ### 🔧 Selected Projects
-- **[Automated Test Fixture for Robotic Arm Subassemblies](https://github.com/tenibob9/robotic_arm)**  
+- **[Automated Test Fixture for Robotic Arm Subassemblies](https://github.com/tenibob9/Engineering-test)**  
   Embedded validation system with data logging, sensor calibration, and Python-based analysis.
 
 - **[Princess Boba – Robotic Cat](https://github.com/tenibob9/princess-boba)**  
